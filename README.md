@@ -25,9 +25,9 @@ npm android
 
 
 ## Preview
-![Image 1](https://drive.google.com/uc?export=view&id=1OXpq9e3D9onPupaejGwZtimkOzmfBHiU =600x)
-![Image 2](https://drive.google.com/uc?export=view&id=1RSXqI120WLQHZLriiG1VoBaKGMlrBr9Y =600x)
-![Image 3](https://drive.google.com/uc?export=view&id=1Mtig8EoI4dYlgEp0N8c1HmFjJj3lAYfc =600x)
+![Image 1](https://drive.google.com/uc?export=view&id=1OXpq9e3D9onPupaejGwZtimkOzmfBHiU)
+![Image 2](https://drive.google.com/uc?export=view&id=1RSXqI120WLQHZLriiG1VoBaKGMlrBr9Y)
+![Image 3](https://drive.google.com/uc?export=view&id=1Mtig8EoI4dYlgEp0N8c1HmFjJj3lAYfc)
 
 
 
